@@ -1,0 +1,2 @@
+import FunctionalEquationsEducationalAspectsCanonicalLaneLean.GateLemmas
+import FunctionalEquationsEducationalAspectsCanonicalLaneLean.FinalTheorem
